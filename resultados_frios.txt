@@ -1,0 +1,8 @@
+    169 Radial Velocity
+     12 Imaging
+      7 Microlensing
+      5 Eclipse Timing Variations
+      1 method
+      1 Pulsation Timing Variations
+      1 Pulsar Timing
+      1 Astrometry
