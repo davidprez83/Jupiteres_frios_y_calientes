@@ -1,0 +1,7 @@
+     85 Transit
+     61 Radial Velocity
+     12 Imaging
+      6 Microlensing
+      1 method
+      1 Transit Timing Variations
+      1 Orbital Brightness Modulation
